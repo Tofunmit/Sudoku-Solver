@@ -2,7 +2,7 @@
 
 Sudoku solver using backtracking
 
-Basically in sudoku, I want to be able to solve a sudoku puzzle given an input like this, which represents a sudoku board:
+Generally, in sudoku, I want to be able to solve a sudoku puzzle given an input like this, which represents a sudoku board:
 [[x00, x01, x02, x03... x08],
  [x10, x11, x12, x13... x18],
  ...
